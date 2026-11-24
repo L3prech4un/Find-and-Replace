@@ -18,5 +18,5 @@ Processes input data, finding and replacing given strings.
 ## Example:
     ./find_and_replace.py message.txt hi goodbye results.txt
 
-## Author:
-    L3prech4un - https://github.com/L3prech4un
+#### Author:
+L3prech4un - https://github.com/L3prech4un
